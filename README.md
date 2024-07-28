@@ -1,16 +1,29 @@
+# 🌟 Welcome to My GitHub Profile! 🌟
+
+![Profile Banner](./profile_banner.png)
+
 ## Hi there 👋
 
-<!--
-**fuckpuc/fuckpuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** with a knack for creating engaging and intuitive user interfaces. In addition to frontend development, I also build **Telegram bots** using **Node.js**.
 
-Here are some ideas to get you started:
+### My Skills
+- **Frontend Development**: HTML, CSS, JavaScript, Typescript React, Vue.js
+- **Backend Development**: Node.js, Express.js
+- **Telegram Bots**: node-telegram-bot-api
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repositories
+
+- [🌐 Awesome Frontend Project](https://github.com/fuckpuc/stellar-burger)  
+Stellar Burger is a dynamic and interactive website for a burger restaurant where customers can browse the menu, customize their orders, and place them online. The project utilizes React for the frontend, with a stylish and responsive design, ensuring a seamless user experience.
+- [🤖 Cool Telegram Bot (in development)](#)  
+  This Telegram bot is currently under development. It will feature functionalities like sending reminders, fetching information from APIs, and engaging in interactive conversations. The bot is being built using node-telegram-bot-api.
+
+### Contact Me
+
+Feel free to reach out if you want to collaborate on a project, need help with frontend development, or just want to connect!
+
+📱 Telegram: [fuckpuc](https://t.me/fuckpuc)  
+🎨 Fiverr: [My Fiverr Profile](https://www.fiverr.com/karyan00?public_mode=true)  
+💼 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~019601638141e3bc2e)
+
+<img src="./contact_banner.png" alt="Contact us" width="150">
