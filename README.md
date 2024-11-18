@@ -23,7 +23,5 @@ Stellar Burger is a dynamic and interactive website for a burger restaurant wher
 Feel free to reach out if you want to collaborate on a project, need help with frontend development, or just want to connect!
 
 📱 Telegram: [Kar Hyan](https://t.me/cuminpuc)  
-🎨 Fiverr: [My Fiverr Profile](https://www.fiverr.com/karyan00?public_mode=true)  
-💼 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~019601638141e3bc2e)
 
 <img src="./contact_banner.png" alt="Contact us" width="150">
