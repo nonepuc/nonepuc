@@ -7,7 +7,7 @@
 I'm a passionate **Frontend Developer** with a knack for creating engaging and intuitive user interfaces. In addition to frontend development, I also build **Telegram bots** using **Node.js**.
 
 ### My Skills
-- **Frontend Development**: HTML, CSS, JavaScript, Typescript React, Vue.js
+- **Frontend Development**: HTML, CSS, JavaScript, Typescript React, Vue.js, Next.Js
 - **Backend Development**: Node.js
 - **Telegram Bots**: node-telegram-bot-api
 
